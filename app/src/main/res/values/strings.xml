@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YouTube link converter</string>
+    <string name="share_label">Convert shorts URL</string>
+</resources>
