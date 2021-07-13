@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">YouTube link converter</string>
-    <string name="share_label">Convert shorts URL</string>
+    <string name="app_name">YT-Shorts link converter</string>
+    <string name="share_label">Convert YT-Shorts URL</string>
 </resources>
