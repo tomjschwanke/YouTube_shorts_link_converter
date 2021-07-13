@@ -59,6 +59,6 @@ class ShareReceiveActivity : AppCompatActivity() {
             // TODO: redirect to app info screen (settings)
             Toast.makeText(applicationContext, "This app cannot be started from the launcher", Toast.LENGTH_SHORT).show()
         }
-        finish();
+        finish()
     }
 }
